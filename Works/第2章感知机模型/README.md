@@ -11,4 +11,4 @@
 ## 使用方法
 1. 确保 `Learning_1.py`、`LearningData.csv` 在同一目录下，可以继续添加`LearningData.csv`中的训练数据。
 2. 为确保路径名(`Learning_1.py`的第13行)正确，可以直接使用`IDLE`运行，或根据运行环境修改路径名。
-3. 更多可以查看[`github.com/1149578556/BIT_MachineLearning`](github.com/1149578556/BIT_MachineLearning)。
+3. 更多可以查看[`https://github.com/1149578556/BIT_MachineLearning`](https://github.com/1149578556/BIT_MachineLearning)。

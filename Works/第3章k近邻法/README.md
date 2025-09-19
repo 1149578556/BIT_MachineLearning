@@ -17,7 +17,7 @@ pip install scikit-learn
 ## 运行方法
 1. 确保 `Learning_2.py` 和 `LearningData.csv` 在同一目录下。
 2. 按提示输入新点的 x、y 坐标。
-3. 更多可以查看[`github.com/1149578556/BIT_MachineLearning`](github.com/1149578556/BIT_MachineLearning)。
+3. 更多可以查看[`https://github.com/1149578556/BIT_MachineLearning`](https://github.com/1149578556/BIT_MachineLearning)。
 
 ## 示例
 ```
