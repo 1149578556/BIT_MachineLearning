@@ -3,7 +3,8 @@ from sklearn.neighbors import KDTree
 
 # 读取数据
 data_points = []
-with open('Works/第3章k近邻法/LearningData.csv', 'r', encoding='utf-8') as f:
+#with open('Works/第3章k近邻法/LearningData.csv', 'r', encoding='utf-8') as f: # 打开文件夹为BIT_MachineLearning时
+with open('LearningData.csv', 'r', encoding='utf-8') as f: # 打开当前文件夹时，可以直接使用IDLE运行
     reader = csv.reader(f)
     for row in reader:
         try:
